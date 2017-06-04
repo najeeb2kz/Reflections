@@ -15,12 +15,18 @@ Add some thoughts to it.\
 \
 \pard\pardeftab720\sl320\partightenfactor0
 
-\b\fs28 \cf2 \cb3 How is the staging area different from the working directory and the repository? What value do you think it offers?\
+\b\fs28 \cf2 How is the staging area different from the working directory and the repository? What value do you think it offers?\
 
 \b0 Add some answers to it.\
 \
 \pard\pardeftab720\sl320\partightenfactor0
 
-\b \cf4 \cb5 \outl0\strokewidth0 \strokec4 How can you use the staging area to make sure you have one commit per logical change?\
+\b \cf2 \cb3 How can you use the staging area to make sure you have one commit per logical change?\
 
-\b0 Yes add some answer here.}
+\b0 Yes add some answer here.\
+\
+\pard\pardeftab720\sl320\partightenfactor0
+
+\b \cf4 \cb5 \outl0\strokewidth0 \strokec4 How do the diagrams help you visualize the branch structure?\
+
+\b0 ya ya ya}
